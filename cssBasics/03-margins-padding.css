@@ -42,3 +42,19 @@ p {
   /* 0 is a consistent value so you do not need to assign it a unit */
   margin: 0;
 }
+
+.margin-experiment-3 {
+  margin: 5px 10px 20 px 0;
+  padding: 10px;
+}
+
+#padding-experiment-1 {
+  border: 2px solid yellow;
+  margin: 50 px;
+  padding: 20px;
+}
+
+#padding-experiment-2 {
+  padding: 40px;
+  border: 3px dotted orange;
+}
