@@ -1,6 +1,6 @@
 /* rule set #1: Everything within the body tag will have a yellow background. */
 body {
-  background-color: yellow;
+  background-color: lightskyblue;
 }
 
 /* rule set #2: Everything within a css-class class will have a lightgray background. */

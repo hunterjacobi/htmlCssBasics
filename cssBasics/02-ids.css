@@ -1,0 +1,25 @@
+/* id attribute > class attribute > HTML element tags */
+body {
+  background-color: lightgray;
+}
+
+/* rule set #1 */
+#number-one {
+  color: rgb(177, 35, 35);
+}
+
+/* rule set #2, example of two id names not working */
+#number-two {
+  font-size: 20px;
+}
+
+/* rule set #3 */
+.first-class {
+  color: blue;
+  font-style: italic;
+}
+
+/* rule set #4 */
+.second-class {
+  font-size: 24px;
+}
